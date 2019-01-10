@@ -1,0 +1,533 @@
+absolute humidity $ The mass of water vapor in the atmosphere per unit of volume of space.
+absolute location $ The location of a point on the Earth's surface that can be expressed by a grid reference such as latitude and longitude.
+accessibility resource $ A naturally emergent landscape form that eases communication between areas.
+accessibility $ A locational characteristic that permits a place to be reached by the efforts of those at other places.
+acid rain $ Rain that has become more acidic than normal (a pH below 5.0) as certain oxides present as airborne pollutants are absorbed by the water droplets. The term is often applied generically to all acidic precipitation.
+active volcano $ A volcano that is currently erupting, or one that has erupted during the last 10,000 years (the Holocene) or during recorded history.
+agricultural geography $ A subdiscipline of geography which studies the spatial relationships between humans and agriculture and the cultural, political, and environmental processes that lead to parts of the Earth's surface being transformed by humans through primary sector activities into agricultural landscapes.
+air mass $ A very large body of atmosphere defined by essentially similar horizontal air temperatures and moisture conditions.
+alluvia $ Clay, silt, gravel, or similar detrital material deposited by running water.
+alluvial soils $ Soils deposited through the action of moving water. These soils lack horizons and are usually highly fertile.
+altitude $ The height of an object in the atmosphere above sea level. Compare elevation.
+Antarctic $ The region of the Earth that is south of the Antarctic Circle.
+Antarctic Circle $ The southernmost of the Earth's two polar circles of latitude, south of which the sun appears above the horizon for 24 continuous hours at least once per year (and is therefore visible at midnight) and also appears at least partially below the horizon for 24 continuous hours at least once per year (and is therefore not visible at noon). Its latitude is approximately 66°33'47.1? south of the Equator. Contrast Arctic Circle.
+anthracite $ A hard coal containing little volatile matter.
+anthropization $ The conversion of open spaces, landscapes, and natural environments by human action.
+anticline $ A geological fold that has an arch-like convex shape and its oldest beds near its center, often visible at the Earth's surface in exposed rock strata.
+antimeridian $ The line of longitude exactly 180 degrees east or west of the Prime Meridian, with which it forms a great circle dividing the earth into the Eastern and Western Hemispheres. It is used as the approximate basis for the International Date Line because it mostly passes through the open waters of the Pacific Ocean.
+antipodes $ A pair of points on the Earth's surface that are diametrically opposite to each other, such that a straight line connecting them would pass through the Earth's center. Such points are as far away from each other as possible, with the great-circle distance between them being approximately 20,000 kilometres (12,000mi).
+aquifer $ An underground layer of water-bearing permeable rock, rock fractures, or unconsolidated materials such as gravel, sand, or silt.
+archipelago $ A collection of islands in a sea.
+arête $ A sharp, narrow mountain ridge. It often results from the erosive activity of alpine glaciers flowing in adjacent valleys.
+arroyo $ A deep gully cut by a stream that flows only part of the year; a dry gulch. A term normally used only in desert areas.
+Arctic $ The region of the Earth that is north of the Arctic Circle.
+Arctic Circle $ The northernmost of the Earth's two polar circles of latitude, north of which the sun appears above the horizon for 24 continuous hours at least once per year (and is therefore visible at midnight) and also appears at least partially below the horizon for 24 continuous hours at least once per year (and is therefore not visible at noon). Its latitude is approximately 66°33'47.1? north of the Equator. Contrast Antarctic Circle.
+ash $ Fragments less than 1;3 centimetre (0.13in) in diameter of lava or rock blasted into the air by volcanic explosions.
+Atlantic Seaboard fall line $ The physiographic border between the Piedmont and Atlantic coastal plain regions of eastern North America. The name derives from the river rapids and falls that occur as the water flows from the hard rocks of the higher piedmont onto the softer rocks of the coastal plain.
+atlas $ A bound collection of maps.
+atmosphere $ The mixture of gases, aerosols, solid particles, and water vapor that envelops the Earth.
+atoll $ A ring-shaped coral reef that partially or completely encircles a lagoon.
+ayre $ Another name for a shingle beach or other gravel-covered spit, bar, or tombolo used primarily in the archipelagos of northern Scotland.
+azimuth $ The angle formed between a reference vector (often magnetic north) and a line from the observer to a point of interest projected perpendicularly to the zenith on the same plane as the reference vector. Azimuth is usually measured in degrees and can be determined with a compass.
+backwater (river) $ A part of a river in which there is little or no current.
+badlands $ An area of irregular topography resulting from extensive wind and water erosion of sedimentary rock.
+bar $ An elevated region of sediment such as sand or gravel which has been deposited by the flow of a river or other moving body of water. See also shoal.
+barrier ridge $ Any steep, unnavigable terrain isolating one terrain from another.
+base level $ The lowest level to which a stream can erode its bed. The ultimate base level of all streams is, of course, the sea.
+basin $ See depression.
+batholith $ A very large body of igneous rock, usually granite, which has been exposed by erosion of the overlying rock.
+bay $ Part of a sea or lake within a wide or narrow indentation of the shoreline.
+beach $ A landform along the shoreline of an ocean, sea, lake, or river with a loose surface of sand, gravel, shingle, pebbles, shells, stones or coral.
+bearing $ The direction or position of an object, or the direction of an object's movement, relative to a fixed point. It is typically measured in degrees and can be determined with a compass, where magnetic north is by convention defined as having a bearing of zero degrees.
+bedrock $ The solid rock in the Earth's crust that underlies all soil or other loose material; the rock material that breaks down eventually to form soil.
+bight $ A bend or curve in a coastline, river, or other geographical feature typically indicating a large, open bay. It is shallower than a sound.
+biological diversity $ A concept recognising the variety of life forms in an area of the Earth and the ecological interdependence of these life forms.
+biogeography $ The study of the distribution of biological species and ecosystems in geographic space and through geological time.
+biosphere $ The realm of all living things.
+biota $ The animal and plant life of a region considered as a total ecological entity.
+bituminous $ A soft coal that, when heated, yields considerable volatile matter.
+blowout $ A sandy depression formed when wind erodes into patches of bare sand on otherwise vegetation-stabilized sand dunes at the margins of coastal and arid ecosystems.
+bocage $ A landscape of mixed woodland and pasture, with fields and winding country lanes sunken between low, narrow ridges and banks surmounted by tall, thick hedgerows, especially as found in rural parts of western Europe.
+body of water $ Any significant accumulation of water, either natural or artificial, on the surface of the Earth. Bodies of water may hold or contain water, as with lakes and oceans, or they may collect and move water from one place to another, as with rivers, streams, and other waterways.
+bootheel $ See salient.
+border $ The geographical boundary of a political entity or legal jurisdiction, such as a country, state, or other subnational entity.
+borough $ 
+break-in-bulk point $ A transfer point on a transport route where the mode of transport or type of carrier changes and where large-volume shipments are reduced in size. For example, goods may be unloaded from a ship and transferred to trucks at an ocean port.
+built environment $ The human-made spaces that provide the setting for human activity, in which people live, work, and recreate on a day-to-day basis.
+butte $ An isolated hill or mountain with steep or precipitous sides, usually having a smaller summit area than a mesa.
+cadastre $ A type of parcel-based land recording system containing a comprehensive record of interests in individual units of land within a country or other polity, usually including a geometric description of each parcel's physical location, dimensions, and boundaries that is linked to legal information detailing the nature of the interests (e.g. rights, restrictions, and responsibilities), the ownership or control of those interests, and the economic value of the land and its improvements. The cadastre is a fundamental source of data used in resolving disputes between landowners.
+calanque $ A narrow, steep-sided valley surrounding an inlet formed in karstic regions along the Mediterranean coast, either by fluvial erosion or the collapse of the roof of a cave that has been subsequently partially submerged by a rise in sea level.
+caldera $ A large, cauldron-like depression that forms through the subsidence and collapse of a ground surface following the evacuation of an underlying magma chamber.
+canal $ A navigable artificial water channel, usually built as a conduit for human activity.
+canyon $ A deep cleft between cliffs or escarpments, or a rift between two mountain peaks, resulting from weathering and the erosive activity of a river over long periods of geologic time.
+cape $ A large headland or promontory extending into a body of water, usually a sea or ocean.
+caprock $ A stratum of erosion-resistant sedimentary rock (usually limestone) found in arid areas. Caprock forms the top layer of most mesas and buttes.
+cardinal directions $ The four primary directions used in cartography and navigation: north (N), south (S), east (E), and west (W). Together they form the primary divisions of the compass rose. They can be further subdivided into the intercardinal directions and secondary-intercardinal directions.
+carrying capacity $ The number of people that an area can support given the quality of the natural environment and the level of technology of the population.
+cartography $ The study and practice of making maps and charts. A person who draws or makes maps or charts is called a cartographer.
+cartogram $ A map in which some thematic mapping variable, such as travel time, population, or gross national product, is substituted for traditional measures of land area or distance such that the geometry or space of the map is distorted in order to convey and emphasize the information of the alternate variable.
+cave $ Any naturally hollow underground space large enough for a person to enter. A cavern is a solutional cave that is formed in soluble rock with the ability to grow speleothems.
+cay $ A small, sandy, low-elevation island on the surface of an otherwise submerged coral reef; a type of coral island. Compare atoll.
+celestial pole $ 
+cenote $ A natural pit or sinkhole resulting from the collapse of limestone bedrock which exposes groundwater underneath.
+central business district $ A centrally located commercial business district in an urban area, typically containing a concentration of office and retail activities.
+census-designated place (CDP) $ A concentration of population identified by the United States Census Bureau for statistical purposes.
+channel $ A waterway separating two relatively close landmasses.
+chaparral $ Any narrow body of water that connects two larger bodies of water.
+chimney $ The deepest part of a shallow body of water, often used as a passageway for large ships.
+chinook $ A dense, impenetrable thicket of shrubs or dwarf trees.
+chorography $ See salient.
+cinder cone $ A warm, dry wind experienced along the eastern side of the Rocky Mountains in the United States and Canada. Most common in winter and spring, it can result in a rise in temperature of 20°C (68°F) in a quarter of an hour.
+circle of latitude $ 
+cirque $ A steep-sided volcano formed by the explosive eruption of cinders that form around a vent. Cinders are lava fragments about 1 centimetre (0.39in) in diameter.
+city $ See latitude.
+city-state $ An amphitheatre-shaped valley surrounded on three or more sides by steep, cliff-like slopes and formed by glacial or fluvial erosion.
+cliff $ A large human settlement, generally with extensive systems constructed for housing, transportation, sanitation, utilities, and communication.
+climax vegetation $ A sovereign state or small independent country that usually consists of a single city and its dependent territories.
+coast $ Any vertical or nearly vertical rock exposure, usually formed by the processes of weathering and erosion.
+col $ The vegetation that would exist in an area if growth had proceeded undisturbed for an extended period. This would be the "final" collection of plant types that presumably would remain forever, or until the stable conditions were somehow disturbed.
+colony $ The area where land meets a sea or ocean. Coastal zones are regions where the interaction of terrestrial and marine processes occur. Compare shore.
+commonwealth $ The lowest point on a mountain ridge between two peaks.
+compass $ A territory under the immediate complete political control of a sovereign metropolitan state but otherwise distinct, often geographically, from the state's home territory. Colonies have no international representation independent of the metropolitan state. Compare satellite state.
+compass rose $ 
+confluence $ An instrument used for navigation and orientation that indicates direction relative to the geographic cardinal directions by measuring the orientation of the Earth's magnetic field with respect to the North Magnetic Pole. Compasses often display markings for angles or degrees, which allow it to show azimuths and bearings, in addition to a compass rose.
+coniferous $ A figure on a compass, map, nautical chart, or monument used to display the orientation of the four cardinal directions — North, East, South, and West — and their intermediate points.
+contiguity $ The place at which two or more streams flow together to form one larger stream.
+continent $ Bearing cones; from the conifer family.
+continental climate $ The characteristic of a group of neighboring political or geographical divisions not being interrupted by politically unaffiliated land or water; such divisions are said to be contiguous.
+continental divide $ One of several very large, contiguous landmasses into which the Earth's land area is divided, generally by geographical or political convention rather than any strict criteria. Geologically, continents correspond largely to areas of continental crust on continental plates.
+continental shelf $ The type of climate found in the interior of the major continents in the middle, or temperate, latitudes. The climate is characterized by a great seasonal variation in temperatures, four distinct seasons, and a relatively small annual precipitation.
+continentality $ The line of high ground that separates the different oceanic drainage basins of a particular continent. The river systems of a continent on opposite sides of a continental divide flow toward different oceans. See drainage divide.
+contour lines $ A portion of a continent that is submerged beneath an area of relatively shallow water known as a shelf sea. Though continental shelves are usually treated as physiographic provinces of the ocean, they are not part of the deep ocean basin proper but the flooded margins of the continent.
+conurbation $ The quality of being located on a continent.
+corrasion $ Lines marked on topographic maps which show the shape and elevation of the land by connecting points of equal elevation.
+core area $ An extensive urban area formed when two or more initially separate cities coalesce to form a continuous metropolitan area.
+coulee $ 
+couloir $ The portion of a country that contains its economic, political, intellectual, and cultural focus. It is often the center of creativity and change. See hearth.
+country $ A dry canyon eroded by Pleistocene floods that cut into the lava beds of the Columbia Plateau in the western United States.
+county $ A narrow gully with a steep gradient in a mountainous terrain, often enclosed by sheer cliffs and filled with snow or ice even during the summer months.
+course $ A region identified as a distinct national entity in political geography. Compare state.
+crater $ A type of subnational division of a country or federal state used for administrative or other purposes.
+crater lake $ 
+crop-lien system $ Any large, roughly circular depression, pit, or hole in the Earth's surface. Craters can be classified into different types based on their ultimate causes; see impact crater, volcanic crater, and pit crater.
+crust $ 
+cryosphere $ A farm financing scheme whereby money is loaned at the beginning of a growing season to pay for farming operations, with the subsequent harvest used as collateral for the loan.
+cryoturbation $ The thin shell of solid material that is the Earth's outermost layer and the outermost component of the lithosphere. The Earth's crust is generally divided into two distinct types, oceanic crust and continental crust, both of which "float" on top of the mantle.
+cuesta $ The totality of water in the solid phase on the Earth's surface, including glaciers; sea, lake, and river ice; snow; and permafrost. The cryosphere is sometimes considered a subset of the hydrosphere.
+cultural geography $ The mixing of materials from various horizons of the soil down to the bedrock due to freezing and thawing.
+culture $ A long, low ridge with a steep scarp slope and a gentle backslope (dip slope).
+culture hearth $ A branch of human geography which studies the patterns and interactions of human culture in relation to the natural environment and the human organization of space.
+cut bank $ The accumulated habits, attitudes, and beliefs of a group of people that define for them their general behavior and way of life; the total set of learned activities of a people.
+cwm $ The area from which the culture of a group diffused. See hearth.
+Cyclopean stairs $ 
+dale $ See cirque.
+dam $ A term referring to the longitudinal profile of some glaciated valleys which have been eroded into a series of consecutive hanging valleys resembling stairs.
+de facto segregation $ Another name for a valley.
+de jure segregation $ 
+deciduous forest $ The spatial and social separation of populations that occurs without legal sanction.
+degree $ The spatial and social separation of populations that occurs because of legal measures.
+degree day $ A forest in which the trees lose their leaves each year.
+dell $ A unit of angular measure. A circle is divided into 360 degrees, represented by the º symbol. Degrees are used to divide the roughly spherical shape of the Earth for geographic and cartographic purposes.
+delta $ Deviation of one-degree temperature for one day from an arbitrary standard, usually the long-term average temperature for a place.
+demography $ A small, secluded hollow, usually within a grassy, park-like, partially wooded valley.
+depression $ A landform at the mouth of a river where the main stem splits up into several distributaries. It is formed from the deposition of the sediment carried by the river as the flow leaves the mouth of the river. Compare estuary.
+desert $ The systematic analysis of population.
+digital elevation model (DEM) $ Any landform that is sunken or depressed below the surrounding area. Depressions include an enormous variety of landforms and can form by a number of different mechanisms, including erosion, ground collapse, tectonic activity, volcanism, and meteorite impacts.
+dike $ An arid, barren area of land where little precipitation occurs and living conditions are consequently hostile for plant and animal life. Deserts are characterized by exposure of the unprotected ground surface to processes of denudation as well as large variations in temperature between night and day. They are often classified by the amount of precipitation they receive, by their average temperature, by the causes of their desertification, or by their geographical location.
+distributary $ 
+district $ See levee.
+dome $ A stream or river that branches off and flows away from a main channel. Distributaries are common near river deltas. Contrast tributary.
+dormant volcano $ 
+drainage basin $ A steep-sided mound that forms when very viscous lava is extruded from a volcanic vent.
+drainage divide $ An uplifted area of sedimentary rock with a downward dip in all directions, often caused by molten rock material pushing upward from below. The sediments have often eroded away, exposing the rocks that resulted when the molten material cooled.
+draw $ An active volcano that is in repose (quiescence) but is expected to erupt in the future.
+drumlin $ Any area of land where precipitation collects and drains into a common outlet, such as a river, lake, ocean, or any other body of water. The drainage basin includes all of the surface water from precipitation runoff and snowmelt, as well as all of the groundwater beneath the Earth's surface. Each drainage basin is separated topographically from adjacent basins by a drainage divide.
+dry farming $ The topographical barrier that separates neighboring drainage basins. Divides are often, though not always, located along conspicuous elevated ridges or mountain ranges.
+dry point $ A terrain feature formed by two parallel ridges or spurs with low ground in between them.
+dune $ An elongated hill in the shape of an inverted spoon or half-buried egg which is formed by glacial ice acting on underlying unconsolidated till or ground moraine.
+Earth science $ A type of farming practiced in semi-arid or dry grassland areas without irrigation using such approaches as fallowing, maintaining a finely broken surface, and growing drought-tolerant crops.
+Eastern Hemisphere $ 
+easting $ A hill of loose sand built by the movements and erosional and depositional processes of wind or water, often occurring in deserts and coastal areas.
+economic geography $ A collective term for the various fields of natural science related to the planet Earth.
+economies of agglomeration $ The branch of science that studies the physical constitution and characteristics of the Earth and its atmosphere, using methods and tools from geography, geology, physics, chemistry, biology, and mathematics to build a quantitative understanding of how the Earth works and changes over time.
+ecoregion $ The half sphere of the Earth that is east of the Prime Meridian and west of the antimeridian. It is opposite the Western Hemisphere.
+edgelands $ 
+ekistics $ A subdiscipline of geography which studies the location, distribution, and spatial organization of economic activities across the world.
+elevation $ The economic advantages that accrue to an activity by locating close to other activities; benefits that follow from complementarity or shared public services.
+emergent coastline $ A type of biogeographic province that is smaller than a bioregion and which contains characteristic, ecologically and geographically distinct, and relatively uniform assemblages of biological communities and species. Ecoregion boundaries often overlap within ecotones and mosaic habitats, and most ecoregions contain habitats that differ from those described for their assigned biome.
+enclave $ The transitional areas of "fringe" space at the boundaries of a country, city, or other artificial geographical entity, often distinguished by a partly manmade, partly natural landscape that is in the earliest stages of human management and organization. Compare hinterland.
+endorheic basin $ The scientific study of human settlements of all types, incorporating concepts such as regional, metropolitan, and community planning and dwelling design with the goal of achieving harmony between the inhabitants of a settlement and their physical, social, and cultural environments.
+Equator $ The height of a point on the Earth's surface with respect to sea level. Compare altitude.
+erratic $ A coast or shoreline resulting from a rise in land surface elevation relative to sea level.
+escarpment $ A tract or territory completely surrounded by and enclosed within the territory of one other state, country or other political entity. Unlike enclaves, exclaves can be surrounded by more than one other state.
+esker $ A closed drainage basin that allows little or no outflow to external bodies of water but converges instead into internal lakes or swamps which equilibrate through evaporation.
+estuary $ The imaginary circle around the Earth halfway between the geographic poles which is assigned a latitude of zero degrees and is therefore used as a reference point for all other lines of latitude. It is the largest circumference of the Earth.
+evapotranspiration $ A boulder that has been carried from its source by a glacier and deposited as the glacier melted. Such boulders are often of different rock types than the surrounding rocks.
+exclave $ A long cliff or steep slope separating two comparatively level or more gently sloping surfaces and resulting from erosion or faulting.
+exotic stream $ A long, winding ridge of stratified sand and gravel, usually occurring in glaciated or formerly glaciated areas.
+extinct volcano $ The broad lower course of a river where it enters the ocean and is affected by the tides. Compare delta.
+exurban $ The process by which water is lost from an area through the combined effects of evaporation from the ground surface and transpiration from vegetation.
+fall line $ A portion of a state or territory that is geographically separated from the main part by surrounding foreign territory of one or more other states or political entities. Many exclaves are also enclaves.
+fallow $ A stream found in an area that is too dry to have spawned such a flow. The flow originates in some moister section.
+fault $ A volcano that is not expected to erupt again.
+fault-block mountain $ An adjective describing a region or district that lies outside a city and usually beyond its suburbs; a place of this type is called an exurb. Compare rural.
+fault zone $ A geomorphologic unconformity between an upland region of relatively hard crystalline basement rock and a coastal plain of softer sedimentary rock.
+federation $ Agricultural land that is plowed or tilled but left unseeded during a growing season. Fallowing is usually done to conserve moisture.
+fen $ A fracture in the Earth's crust accompanied by a displacement of one side of the fracture.
+field $ A mountain mass created by either the uplift of land between faults or the subsidence of land outside the faults.
+figure of the Earth $ An area of numerous fractures in the Earth's crust along which movement has occurred. The movement may be in any direction and involve material on either or both sides of the fractures.
+firth $ A form of government in which powers and functions are divided between a central government and a number of political subdivisions that have a significant degree of political autonomy.
+fish ladder $ 
+fjord $ A quantity that can be theoretically assigned to any point of space, such as temperature, soil moisture, or population density. Both scalar and vector fields are found in geographic applications, although the former is more common.
+floodplain $ The size and shape of the Earth as studied in geodesy. Applications requiring varying levels of precision have led to the development of many different models of the Earth, ranging from simple spheres to much more accurate approximations such as geoids.
+focality $ 
+forest $ A series of shallow steps down which water is allowed to flow; designed to permit salmon to circumvent artificial barriers such as power dams as the salmon swim upstream to spawn.
+functional diversity $ A long, narrow marine inlet with steep sides or cliffs created by glacial erosion.
+gazetteer $ A broad, flat area of land adjacent to a river or stream which is leveled by annual flooding and by the lateral and downstream movement of meanders.
+geodesy $ The characteristic of a place that follows from its interconnections with more than one other place. When interaction within a region comes together at a single place (i.e., when the movement focuses on that location), the place is said to possess focality.
+geodynamics $ Any large area dominated by communities of trees.
+geoid $ The characteristic of a place where a variety of different activities (economic, political, or social, for example) occurs; most often associated with urban places.
+geoinformatics $ A geographical dictionary or directory used in conjunction with a map or atlas and containing information concerning the geographical make-up, social statistics, and physical features of a country, region, or continent.
+geographic coordinate system $ The science of accurately measuring and understanding the Earth's geometric shape, orientation in space, and gravitational field and how these properties change over time.
+geographic information science (GIS) $ 
+geographic information system (GIS) $ The shape that the surface of the Earth's oceans would take under the influence of Earth's gravity and rotational acceleration alone, in the absence of other influences such as winds and tides. It is often characterized as the precise mathematical figure of the Earth: a smooth but irregular gravitational equipotential surface at every point of which, by definition, the direction of the force of gravity is always perpendicular and spirit levels are always parallel. Its shape results from anomalies in the Earth's gravitational field caused by the uneven distribution of mass within and on the Earth's surface. The reference ellipsoid is an idealized approximation of the more complex and accurate geoid.
+Geographic Names Information System (GNIS) $ The science and technology which develops and uses information science infrastructures to address problems and analyze data within geography, cartography, geoscience, and related branches of science and engineering.
+geography $ A coordinate system used in geography that enables every location on Earth to be specified by a set of numbers, letters, or symbols. Geographic coordinates are often chosen such that one of the numbers represents a vertical position such as elevation and two or three other numbers represent a horizontal position such as latitude and longitude.
+geolocation $ The scientific study of data structures and computational techniques for capturing, representing, processing, and analyzing geographic information.
+geomatics $ Any system of computer software tools designed to allow users to record, store, manipulate, analyze, manage, and present large sets of spatial or geographic data.
+geomorphology $ A digital public-domain database developed by the U.S. Geological Survey and the U.S. Board on Geographic Names which contains name and locative information about more than two million physical and cultural features located throughout the United States and its territories. Each feature recorded in the database receives a unique feature record identifier called a GNIS identifier.
+geosphere $ The scientific study of the lands, features, inhabitants, and phenomena of Earth.
+geostatistics $ The identification or estimation of the real-world geographic location of an object involving the generation of a set of geographic coordinates in order to determine a more meaningful description of location, such as a street address.
+ghetto $ The scientific discipline that involves gathering, storing, processing, and delivering geographic or spatially referenced information.
+glacial till $ The study of the arrangement and form of the Earth's crust and of the relationship between these physical features and the geologic structures beneath.
+glaciation $ The collective non-living parts of the Earth: the lithosphere, the atmosphere, the cryosphere, and the hydrosphere.
+glacier $ A branch of statistics which involves the organization, management, and analysis of spatial and spatiotemporal datasets. Geostatistical algorithms are often incorporated in GIS software applications.
+global city $ A section of a city occupied by members of a minority group who live there because of social restrictions on their residential choice. Originally, the term referred specifically to a section of a European city to which Jews were restricted.
+Global Positioning System (GPS) $ The mass of rocks and finely ground material carried by a glacier and deposited when the ice melts. This creates an unstratified material of varying composition.
+globalization $ The process or state of being covered with a glacier.
+globe $ Another name for a glacial period, an interval of time that is marked by colder temperatures and advancing glaciers.
+graben $ A thick mass of ice resulting from compacted snow that forms when more snow accumulates than melts annually.
+great circle $ 
+great-circle distance $ 
+grid $ 
+grid north $ A true-to-scale map of the Earth that duplicates its round shape and correctly represents areas, relative sizes, and shapes of physical features, distances, and directions.
+groundwater $ 
+growing season $ 
+groyne $ A route which follows a line defined by the intersection of the Earth's surface with an imaginary plane passing through the Earth's center. It is the shortest route between two places on the Earth's surface.
+gulch $ A pattern of lines on a chart or map, such as those representing latitude and longitude, which helps determine absolute location.
+gulf $ The direction northwards as indicated by the grid lines of a map projection, which may not be aligned with geodetic north. Grid north may also differ from magnetic north.
+gully $ The water present beneath the Earth's surface in soil pore spaces and in fractures and voids within geological strata. Contrast surface water.
+guyot $ For a given location, the part of the year during which local weather conditions (i.e. temperature and precipitation) permit the normal growth of plants. Though each plant has its own specific growing season, these growing seasons often show considerable overlap and hence they are grouped into a single generic growing season that encompasses a majority of the plants or crops growing in a given location; in many places, the "growing season" is defined as the period of time between the average date of the last frost (in the Northern Hemisphere, this occurs in the spring) to the average date of the first frost (in the fall).
+hamlet $ A rigid hydraulic structure built from an ocean shore (in coastal engineering) or from a bank (in rivers) that interrupts water flow and limits the movement of sediment.
+hanging valley $ A deep, V-shaped valley often containing a small stream or a dry stream bed and formed by erosion, especially one in xeric areas.
+harmonic tremor $ A large arm or inlet of an ocean or sea that lies within a curved coastline, similar to a bay but usually larger and often with a narrower opening.
+heading $ A landform resembling a large ditch or a small valley created by the action of swift running water eroding deeply and sharply into soil, typically on a hillside.
+headland $ An isolated underwater seamount with a flat top that is at least 200 metres (660ft) below the water's surface.
+hearth $ A small human settlement, variably defined as one the size of a town, village, or parish or as a smaller subdivision of or satellite entity to a larger settlement.
+heath $ Continuous rhythmic earthquakes in the Earth's upper lithosphere that can be detected by seismographs. Harmonic tremors often precede or accompany volcanic eruptions. 
+hemisphere $ A high coastal promontory that extends out into a body of water, often surrounded by steep cliffs. A very large headland is often called a cape.
+highland $ The source area of any innovation. The source area from which an idea, crop, artifact, or good is diffused to other areas.
+highway $ The central part of a region.
+hill $ A part of a region considered essential to the viability and survival of the whole.
+hillock $ A shrubland habitat found mainly on free-draining, infertile, acidic soils and characterized by open, low-growing, woody vegetation.
+historical geography $ Half of the Earth, usually conceived as resulting from the division of the globe into two equal parts of either north and south or east and west.
+hotspot $ Any landform that extends above the surrounding terrain; a hill is generally considered less steep than a mountain.
+human geography $ A small hill.
+hummock $ An area that is tributary to a place and linked to that place through lines of exchange or interaction.
+humus $ A branch of human geography that studies the ways in which geographic phenomena have changed over time, especially (though not necessarily limited to) geographic change as it relates to human activity.
+hydrography $ 
+hydrosphere $ The apparent line that separates the ground from the sky, dividing all visible directions into two categories: those that intersect the Earth's surface and those that do not. When not obscured by buildings, trees, or mountains, the true horizon can be useful in navigation and determining positional orientation.
+ice age $ An area in the middle of a lithospheric plate where magma rises from the mantle and erupts at the Earth's surface. Volcanoes sometimes occur above a hotspot.
+ice cap $ The branch of geography that studies humans and their communities, cultures, economies, and interactions with the environment by examining their relations with and across space and place. Along with physical geography, it is one of the two major subfields of geography.
+iceberg $ A small knoll or mound, typically less than 15 metres (49ft) in height and situated above an otherwise level ground surface.
+igneous rock $ Partially decomposed organic soil material.
+impact crater $ The study of the surface waters of the Earth.
+impoundment $ The totality of the water found on, under, and above the Earth's surface in liquid, solid, and gaseous forms, including all oceans, lakes, rivers, and streams, as well as all ice and glaciers and subsurface groundwater. Some definitions restrict the hydrosphere to liquid water only, instead placing solid forms in the cryosphere and gaseous forms in the atmosphere.
+Inertia Costs of Location $ A time of widespread glaciation, such as the Pleistocene Epoch.
+inlet $ A mass of ice that covers less than 50,000 square kilometres (19,000sqmi) of land area and is not constrained by topographical features such as mountains; larger masses of ice are termed ice sheets. Contrast polar ice cap.
+inselberg $ A large chunk of freshwater ice which has broken away from a larger body of ice (such as a glacier or ice shelf) and is floating freely in open water.
+insular $ Rock formed when molten (melted) materials harden.
+integrated geography $ A type of crater formed by the hypervelocity collision of a solid astronomical body, such as a meteor, with the Earth's surface. Unlike volcanic craters, impact craters typically have raised rims higher in elevation and depressed floors lower in elevation than the surrounding terrain.
+intercardinal directions $ Another name for a dam that impounds a body of water.
+interfluve $ The reservoir created by such a dam.
+intermediate directions $ Costs borne by an activity because it remains located at its original site, even though the distributions of supply and demand have changed.
+International Date Line $ An indentation of a shoreline, usually long and narrow, which often leads to an enclosed body of saltwater, such as a sound, bay, lagoon, or marsh.
+international waters $ An isolated rocky hill, knob, ridge, or small mountain that rises abruptly from a virtually level surrounding plain. Compare mogote.
+intervening opportunity $ Of or relating to an island, or suggestive of the isolated condition of an island.
+Intracoastal Waterway System $ The branch of geography that describes and explains the spatial aspects of interactions between human individuals or societies and their natural environment.
+inverted river delta $ The four intermediate directions used in cartography and navigation which are located halfway between each pair of cardinal directions: northeast (NE), southeast (SE), southwest (SW), and northwest (NW). They are often included in the compass rose and are used to define further subdivisions such as the secondary-intercardinal directions.
+island $ A narrow, elongated, and plateau-like or ridge-like landform between two valleys, or an area of higher ground between two rivers in the same drainage basin.
+islet $ See intercardinal directions.
+isohyet $ A line of longitude generally 180 degrees east and west of the Prime Meridian. The date is one day earlier to the east of the line.
+isthmus $ 
+jurisdiction $ The existence of a closer, less expensive opportunity for obtaining a good or service, or for a migration destination. Such opportunities lessen the attractiveness of more distant places.
+jhum cultivation $ A U.S. waterway channel, maintained through dredging and sheltered for the most part by a series of linear offshore islands, that extends from New York City to the southern tip of Florida and from Brownsville, Texas to the eastern end of Florida's panhandle.
+jungle $ 
+kame $ Any piece of sub-continental land that is entirely surrounded by water.
+karst $ A very small island.
+kettle $ A line on a map connecting points that receive equal precipitation.
+key col $ A narrow piece of land connecting two larger land areas across an expanse of water by which they are otherwise separated.
+knoll $ The right and power to apply the law; the territorial range of hills between mountains.
+lacustrine plain $ Clear-cutting and/or setting fire to an area of land so it can be used for farm cultivation.
+lagoon $ An area covered with dense vegetation dominated by trees, often tropical.
+lahar $ An irregularly shaped hill or mound composed of sand, gravel, and glacial till which accumulates in a depression on a retreating glacier and is subsequently deposited on the land surface with further melting of the glacier. Kames are often associated with kettles.
+lake $ An area possessing surface topography resulting from the underground solution of subsurface limestone or dolomite.
+land bridge $ A shallow, sediment-filled body of water formed by blocks of ice calving from a retreating glacier, or by draining floodwaters.
+land cover $ 
+landform $ See hillock.
+landmark $ A nearly level land area that was formed as a lakebed.
+landmass $ A small area of water connected to the ocean but otherwise blockaded by one or more islands.
+lateral blast $ See mudflow.
+latitude $ A body of water localized in a basin and surrounded entirely by land. Lakes are often defined as separate from any river or stream that serves to feed or drain them.
+lava $ Any piece of land connecting larger land areas that are otherwise separated by water, especially one over which living organisms, such as terrestrial animals and plants, are able to cross and thereby colonize previously inaccessible lands. Land bridges may be created by falling sea levels, tectonic activity, or post-glacial rebound. Compare isthmus.
+leaching $ The physical material present on the surface of the Earth, including categories such as vegetation (grasslands, shrubs, forests, etc.), bare ground, water, asphalt and artificial surfaces, and many others.
+leeward $ A natural feature of the solid surface of the Earth. A combined set of landforms makes up the terrain of a given area, and their arrangement in a landscape is known as topography.
+legend $ Any natural or artificial feature that is recognizable enough to be used for navigation; a feature that stands out enough from its environment to be visible across long distances.
+LEDC $ Any large contiguous area of land surrounded by ocean. Compare continent.
+levee $ A sideways-directed explosion from the side or summit of a volcano.
+life-cycle stage $ A measure of distance north or south of the Equator. One degree of latitude equals approximately 110 kilometers (68mi). Lines of latitude, also called circles of latitude, are the imaginary lines that cross the surface of the Earth in an east-west direction (parallel to the Equator) and measure how far north or south of the Equator a place is located.
+lignite $ The term used for magma once it has erupted onto the Earth's surface.
+lithosphere $ A process of soil nutrient removal through the erosive movement and chemical action of water.
+lithospheric plates $ The side of a landmass sheltered from the wind. It is the opposite of windward.
+location $ A key for understanding the meaning of the symbols or pictures in a map.
+loess $ An acronym for Less Economically Developed Country.
+longitude $ An elongated naturally occurring ridge or an artificially constructed wall or barrier which regulates water levels in areas prone to flooding. It is usually earthen and often parallel to the course of a river or a coastline.
+lowland $ A period of uneven length in which the relative dependence of an individual on others helps define a complex of basic social relations that remains relatively consistent throughout the period.
+magma $ A low-grade brownish coal of relatively poor heat-generating capacity.
+magnetic north $ The Earth's hard, outermost shell. It comprises the crust and the upper part of the mantle. It is divided into a mosaic of 16 major slabs or plates, which are known as lithospheric plates or tectonic plates.
+main stem $ A series of rigid slabs (16 major ones at present) that make up the Earth's outer shell. These plates float on top of a softer, more plastic layer in the Earth's mantle.
+mainland $ A particular point or place in physical space. Compare absolute location.
+makhtesh $ A soil made up of small particles that were transported by the wind to their present location.
+mantle $ A measure of distance east or west of a line drawn between the North and South Poles and passing through the Royal Observatory at Greenwich, England. Lines of longitude, also called meridians, are the imaginary lines that cross the surface of the Earth in a north-south direction (parallel to the Prime Meridian) and measure how far east or west of the Prime Meridian a place is located.
+map $ 
+map projection $ Molten rock containing liquids, crystals, and dissolved gases that forms within the upper part of the Earth's mantle and crust. When erupted onto the Earth's surface, it is called lava.
+maritime climate $ The direction a compass points, towards the Magnetic North Pole. Magnetic north differs from true north and grid north.
+marsh $ The primary downstream channel of a river as contrasted with its tributaries. Virtually all of the water in a river's drainage basin eventually flows through the main stem.
+Mason–Dixon line $ A term used to denote a contiguous landmass or political territory relative to its politically associated but geographically remote outlying territories. It is variously used to refer to the continental (i.e. non-insular) part of a polity relative to its exclaves or oceanic islands; or to the largest or most politically, economically, and/or demographically significant island within an island nation. For example, continental Europe is often considered "the mainland" relative to the British Isles, while the island of Great Britain is considered "the mainland" relative to Northern Ireland and the many smaller islands that constitute the United Kingdom.
+massif $ 
+meander $ A zone in the Earth's interior between the crust and the core that is 2,900 kilometers (1,800mi) thick. The lithosphere is composed of the topmost 65–70 kilometres (40–43mi) of the mantle and the crust.
+meander scar $ A picture of a place that is usually drawn to scale on a flat surface.
+MEDC $ A systematic transformation of the latitudes and longitudes of locations from the surface of a three-dimensional shape, such as a sphere or an ellipsoid, into locations on a two-dimensional plane. Maps of locations on the Earth require map projections to represent features in a convenient format that is easy to view and interpret, though all map projections necessarily distort the true properties of the Earth's surface to some degree.
+Mediterranean climate $ A climate strongly influenced by an oceanic environment, typically found on islands and the windward shores of continents. It is characterized by small daily and yearly temperature variation and high relative humidity.
+megacity $ A wetland dominated by herbaceous rather than woody plant species and often found at the edges of lakes and streams, where it forms a transition between the aquatic and terrestrial ecosystems.
+megalopolis $ 
+megaregion $ A section of the Earth's crust which is demarcated by faults or flexures and tends to retain its internal structure while being displaced as a whole.
+meridian $ A single large mountain mass or compact group of connected mountains forming an independent portion of a mountain range.
+mesa $ One of a series of regular sinuous curves, bends, loops, turns, or windings in the main channel of a river, stream, or other watercourse. Meanders are produced by the repetitive upstream erosion and downstream deposition of sediments along the banks of a watercourse as the water flows back and forth across the axis of a valley or floodplain.
+metamorphic rock $ A typically crescent-shaped incision in a bluff or valley wall formed by the remnants of a dry, abandoned meander.
+metes and bounds $ An acronym for More Economically Developed Country.
+metropolis $ Any climate characterized by mild, rainy winters and hot, dry summers, as experienced in the Mediterranean Basin.
+metropolitan area $ 
+metropolitan coalescence $ A chain of roughly adjacent metropolitan areas which have merged into a very large and heavily populated urban complex. See conurbation and metropolitan coalescence.
+mogote $ 
+monadnock $ See longitude.
+moor $ An isolated, relatively flat-topped natural elevation, usually more extensive than a butte and less extensive than a plateau.
+moraine $ Rock that has been physically altered by heat and/or pressure.
+mound $ A system of land survey that defines land parcels according to visible natural landscape features and distance. The resultant field pattern is usually very irregular in shape.
+mountain $ A large city or conurbation which is considered a significant economic, political, or cultural center for a country or geographic region and/or an important hub for regional or international connections and communications.
+mountain range $ A region consisting of one or more densely populated urban cores (often a metropolis) and its less populous surrounding territories, including satellite cities, towns, and intervening rural areas, all of which are socioeconomically tied to the core as typically measured by commuting patterns. A metropolitan area usually comprises multiple neighborhoods, jurisdictions, and municipalities, with its inhabitants sharing industry, housing, and many other forms of infrastructure.
+mouth $ The merging of the urbanized parts of separate metropolitan areas; a megalopolis is a result of this process.
+mudflow $ An isolated, rounded, steep-sided hill composed of either limestone, marble, or dolomite and surrounded by nearly flat alluvial plains, especially as found in tropical regions.
+multilingual $ See inselberg.
+municipal corporation $ An upland habitat and ecoregion characterized by low-growing vegetation on acidic soils and generally referring to uncultivated hills but also including low-lying wetlands.
+municipality $ The rocks and soil carried and deposited by a glacier. An "end moraine," either a ridge or low hill running perpendicular to the direction of ice movement, forms at the end of a glacier when the ice is melting.
+nadir $ Any heaped pile of earth, gravel, sand, rocks, or debris, typically with a rounded top and of topographically higher elevation than its immediate surroundings.
+nation $ A large landform that rises prominently above the surrounding land in a limited area, usually in the form of a rocky peak with great vertical relief; a mountain is generally considered steeper than a hill. Mountains are formed by volcanic or tectonic forces and erode slowly through the actions of rivers, glaciers, and weathering. Most exist within extensive mountain ranges.
+national mapping agency $ A series of neighboring mountains or hills, often closely arranged in a line and connected by high ground. Individual mountains within the same mountain range are usually the result of the same orogeny, and often (though not always) share a common form, alignment, and geology.
+national park $ The place where a river or stream flows into another body of water, such as a lake or another river but especially a sea or ocean. Deltas and estuaries occur near the mouths of rivers.
+natural landscape $ A flowing mixture of water and debris (intermediate between a volcanic avalanche and a water flood) that forms on the slopes of a volcano. Sometimes called a debris flow or lahar, a term from Indonesia where volcanic mudflows are a major hazard.
+neighborhood $ The ability to use more than one language when speaking or writing. This term often refers to the presence of more than two populations of significant size within a single political unit, each group speaking a different language as their primary language.
+nodal region $ 
+North Geographic Pole $ A type of general-purpose urban administrative subdivision having corporate status and powers of self-government or jurisdiction as granted by national and/or state laws to which it is subordinate. Municipalities are often included within but usually distinguished from larger administrative divisions such as counties, though the nature of their territorial boundaries and political jurisdictions can vary considerably in different parts of the world.
+North Geomagnetic Pole $ 
+North Magnetic Pole $ A stable community of people formed on the basis of a common geographic territory, language, economy, ethnicity, or psychological make-up as manifested in a common culture.
+Northern Hemisphere $ 
+northing $ 
+oasis $ The original landscape that exists before it is acted upon by humans. Contrast cultural landscape.
+ocean $ 
+open range $ A region characterized by a set of places connected to another place by lines of communication or movement.
+ordinal directions $ The point in the Northern Hemisphere where the Earth's axis of rotation meets its surface. It is the northernmost point on Earth, directly opposite the South Geographic Pole, and defines the direction of true north at a latitude of 90 degrees North; its longitude can be assigned any degree value. Unlike the South Pole, the North Pole is not located on a continental landmass but in the middle of the Arctic Ocean. See also North Magnetic Pole.
+orographic rainfall $ The point in the Northern Hemisphere where the axis of a theoretical simplified dipole passing through the center of the Earth would intersect the Earth's surface. It is antipodal to the South Geomagnetic Pole. Because of the fluid nature of the Earth's molten core, the true axis of the Earth's magnetic field is not a perfect dipole, and so the Geomagnetic Poles and the actual Magnetic Poles lie some distance apart.
+outwash $ The point in the Northern Hemisphere at which the Earth's magnetic field points vertically downward. It is close to but distinct from the Geographic North Pole and the Geomagnetic North Pole, and its precise location varies considerably over time due to frequent magnetic changes in the Earth's core. Its counterpart in the Southern Hemisphere is the South Magnetic Pole, though the two poles are not directly opposite each other.
+overburden $ The half sphere of the Earth that is north of the Equator. It is opposite the Southern Hemisphere.
+oxbow $ 
+palisade $ 
+panhandle $ A vast, contiguous body of salt water covering more than 70% of the Earth's surface area and surrounding the continental landmasses, or a portion of this larger body of water that is divided and distinguished from the other portions, each of which is called an ocean, by the presence of the landmasses.
+parish $ A cattle- or sheep-ranching area characterized by a general absence of fences and in which livestock are allowed to roam freely.
+permafrost $ See intercardinal directions.
+peninsula $ Precipitation that results when moist air is lifted over a topographic barrier, such as a mountain range.
+photogrammetry $ Rocky and sandy surface material deposited by melted water that flows from a glacier.
+physical geography $ Material covering a mineral seam or bed that must be removed before the mineral can be removed in strip mining.
+physiographic region $ A wide U-shaped meander in a river or stream.
+physiography $ The lake formed when a meander is cut off from the main stem of the river, creating a separate body of water.
+piedmont $ A wall of wooden stakes used as a defensive barrier.
+pit crater $ A line of bold cliffs, especially one showing basaltic columns.
+place identity $ See salient.
+plain $ 
+plate tectonics $ A permanently frozen layer of soil; permanently frozen ground at high latitude and high elevation.
+plateau $ A piece of land surrounded by water along the majority of its border while still being connected to a mainland from which it extends.
+platted land $ 
+plumb line $ The branch of geography that studies processes and patterns in the natural environment, such as the atmosphere, hydrosphere, geosphere, and biosphere, as opposed to the cultural or built environment. Along with human geography, it is one of the two major subfields of geography.
+plural society $ A portion of the Earth's surface with a common topography and common morphology.
+polar circle $ Another name for physical geography.
+polar ice cap $ Any geographic region lying or formed at the base of mountains.
+polar region $ In the Southeastern United States, a broad region extending from the Blue Ridge Mountains to the Atlantic coastal plain.
+pole of inaccessibility $ A type of crater formed by the sinking or collapse of the surface lying above a void or empty chamber. Pit craters are similar to calderas and are often associated with volcanic activity, but lack the ejecta deposits and lava flows of volcanic craters.
+political geography $ 
+polynodal $ Any broad, flat expanse of land that generally does not show significant variation in elevation.
+pond $ A geologic theory that the bending (folding) and breaking (faulting) of the solid surface of the Earth results from the slow movement of large sections of that surface called plates.
+populated place $ An area of highland consisting of relatively flat terrain that is significantly higher than the surrounding landscape, often with one or more sides with steep slopes. Also sometimes called a high plain or tableland.
+population $ Land that has been divided into surveyed lots.
+population geography $ 
+positioning system $ A situation in which two or more culture groups occupy the same territory but maintain their separate cultural identities.
+post-industrial $ Either of the two circles of latitude enclosing the Earth's polar regions: the Arctic Circle in the Northern Hemisphere and the Antarctic Circle in the Southern Hemisphere.
+pothole $ 
+Precambrian rock $ Either of the two high-latitude regions surrounding the Earth's geographical poles (the North and South Poles), which are characterized by frigid climates and extensive polar ice caps. The polar region of the Northern Hemisphere is often simply called the Arctic and that of the Southern Hemisphere is called the Antarctic.
+prevailing winds $ 
+primary sector $ The study of both the spatially uneven outcomes of political processes and the ways in which political processes are themselves affected by spatial structures. A subdiscipline of human geography, its primary concerns can be summarized as the relationships between people, state, and territory.
+Prime Meridian $ Many-centered.
+promontory $ A natural or artificial body of standing water that is usually smaller than a lake.
+protected area $ A place or area with clustered or scattered buildings and a permanent human population (a city, settlement, town, or village) that is referenced with geographic coordinates.
+province $ A collection of organisms of the same group or species which live in a particular geographical area. In the context of geography, it often refers to a collection of humans and is represented at the most basic level as the number of people in a given geographically or politically defined space, such as a city, town, region, country, or the entire world.
+psychogeography $ 
+public land $ 
+pueblo $ An economy that gains its basic character from economic activities developed primarily after manufacturing grew to predominance. Most notable would be quaternary economic patterns.
+quadrangle $ 
+quaternary sector $ The oldest rocks, generally more than 600 million years old.
+quarry $ The direction from which winds most frequently blow at a specific geographic location.
+rail gauge $ That portion of a region's economy devoted to the extraction of basic materials (e.g., mining, lumbering, agriculture).
+rainforest $ The imaginary line running from north to south through the Royal Observatory in Greenwich, England which is assigned a longitude of 0 degrees and is therefore used as the reference point for all other lines of longitude.
+rainshadow $ A raised mass of land that projects into a lowland or a body of water. Compare headland and cape.
+ravine $ Any clearly defined geographic space in which human occupation or the exploitation of resources is limited or forbidden through legal or other effective means because of the area's recognized natural, ecological, cultural, or historical value.
+reference ellipsoid $ A type of second-level administrative division within a country or federal state.
+region $ 
+regiopolis $ 
+relief $ A type of Indian village constructed by some tribes in the southwestern United States. A large community dwelling, divided into many rooms, up to five stories high, and usually made of adobe. This is also a Spanish word for town or village.
+relief map $ 
+remote sensing $ That portion of a region's economy devoted to informational and idea-generating activities (e.g., basic research, universities and colleges, and news media).
+reservoir $ A place from which stone, rock, sand, gravel, slate, or aggregate is excavated from the ground. Also sometimes called an open-pit mine.
+resource $ The distance between the two rails of a railroad.
+retroreflector $ Any forest characterized by abundant rainfall, dense layers of vegetation, and extremely high biodiversity. Rainforests are found in both tropical and temperate regions. The term jungle is sometimes used to refer to a tropical rainforest.
+ribbon lake $ An area on the leeward (downwind) side of a mountain or mountain range that receives greatly diminished precipitation.
+ridge $ 
+rift valley $ 
+riparian rights $ An area having some characteristic or characteristics that distinguish it from other areas; a territory that is of interest to people, for which one or more distinctive traits are used as the basis for its identity.
+ria $ 
+river $ See terrain.
+riverine $ See topographic map.
+rural $ The gathering of information about an object or place from a remote location (i.e. without making physical on-site observations), most commonly by the use of satellite- or aircraft-based electromagnetic sensor technologies.
+saddle $ An artificial lake or an artificially enlarged natural lake that is used to store water. Reservoirs are often created by the construction of a dam or lock in a natural drainage basin.
+salient $ Anything that is both naturally occurring and of use to humans.
+salt pan $ 
+scale $ 
+scarp $ An elongated raised landform which forms a continuous elevated crest for some distance, such as a chain of hills or mountains. The line formed by the highest points, with only lower terrain immediately to either side, is called the ridgeline.
+sea $ 
+sea level $ The rights of water use possessed by a person owning land containing or bordering a watercourse or lake.
+seamount $ A drowned river valley that remains open to the sea.
+second home $ A natural watercourse, usually freshwater, that flows towards an ocean, sea, lake, another river, or in some cases into the ground.
+secondary-intercardinal directions $ Located on or inhabiting the banks or the area adjacent to a river or lake.
+secondary sector $ An adjective describing any geographic area located outside areas of significant human population such as towns and cities; all population, housing, and territory not included within an urban area is often said to be rural. Rural areas are typified by low population densities, very small settlements, and expansive areas of agricultural land or wilderness.
+sedimentary rock $ 
+seismograph $ Any narrow, elongated protrusion of a larger territory, either physical or political, such as a state.
+settlement $ 
+sheepback $ The relationship between a linear measurement on a map and the distance it represents on the Earth's surface.
+shield $ A steep cliff or steep slope, formed either because of faulting or by the erosion of inclined rock strata.
+shield volcano $ Any large body of saltwater surrounded in whole or in part by land.
+shoal $ Any large subdivision of the World Ocean. "The sea" is the colloquial term for the entire interconnected system of salty bodies of water, including oceans, that covers the Earth.
+shore $ The average level of the surface of one or more of Earth's oceans from which heights such as elevation and altitude are commonly measured. Often called mean sea level (MSL), it is a type of standardized geodetic vertical datum that is used in numerous applications, including surveying, cartography, and navigation. Mean sea level is commonly defined as the midpoint between the mean low and mean high tides at a particular location.
+sinkhole $ A mountain (often a volcano) rising from the ocean floor whose summit does not reach the water's surface and which is therefore entirely submerged and not an island or islet.
+site $ A seasonally occupied dwelling that is not the primary residence of the owner. Such residences are usually found in areas with substantial opportunities for recreation or tourist activity.
+situation $ 
+slough $ That portion of a region's economy devoted to the processing of basic materials extracted by the primary sector.
+smog $ Rock formed by the hardening of material deposited in some process; most commonly sandstone, shale, and limestone.
+Standard Metropolitan Statistical Area (SMSA) $ A scientific instrument that detects and records vibrations (seismic waves) produced by earthquakes.
+snowline $ Any place where people live and form communities.
+soil horizon $ 
+solubility $ A broad area of very old rocks above sea level that is usually characterized by thin, poor soils and low population densities.
+sound $ A volcano that resembles an inverted warrior's shield. It has long gentle slopes produced by multiple eruptions of fluid lava flows.
+South Geographic Pole $ A natural submerged ridge, bank, or bar that consists of or is covered by sand or other unconsolidated material and rises from the bed of a body of water to just below or above the surface. Shoals often constitute a significant danger to watercraft navigation.
+South Geomagnetic Pole $ The fringe of land at the edge of a large body of water, such as an ocean, sea, or lake. Compare coast.
+South Magnetic Pole $ A crater formed when the roof of a cavern collapses, usually found in areas of limestone rock.
+Southern Hemisphere $ The features of a place related to the immediate environment on which the place is located (e.g., terrain, soil, subsurface, geology, groundwater).
+space economy $ The features of a place related to its location relative to other places (e.g., accessibility, hinterland quality).
+spatial citizenship $ 
+spatial complementarity $ A mixture of particulate matter and chemical pollutants in the lower atmosphere, usually over urban areas.
+spatial interaction $ A statistical unit of one or more counties that focus on one or more central cities larger than a specified size, or with a total population larger than a specified size. This is a reflection of urbanization.
+spatial reference system (SRS) $ The lowest elevation at which snow remains from year to year and does not melt during the summer.
+spirit level $ A distinct layer of soil encountered in vertical section.
+spit $ The degree to which a substance can be dissolved in another substance; in a geographical context, the characteristic of soil minerals that leads them to be carried away in solution by water (see leaching).
+spreading ridges $ A large inlet of a sea or ocean that is larger than a bay, deeper than a bight, and wider than a fjord.
+spring $ A narrow sea or ocean channel between two landmasses.
+spur $ The point in the Southern Hemisphere where the Earth's axis of rotation meets its surface. It is the southernmost point on Earth, directly opposite the North Geographic Pole, and is located on continental land in Antarctica at a latitude of 90 degrees South; its longitude can be assigned any degree value. See also South Magnetic Pole.
+stack $ The point in the Southern Hemisphere where the axis of a theoretical simplified dipole passing through the center of the Earth would intersect the Earth's surface. It is antipodal to the North Geomagnetic Pole. Because of the fluid nature of the Earth's molten core, the true axis of the Earth's magnetic field is not a perfect dipole, and so the Geomagnetic Poles and the actual Magnetic Poles lie some distance apart.
+state $ The point in the Southern Hemisphere at which the Earth's magnetic field points vertically downward. It is close to but distinct from the Geographic South Pole and the Geomagnetic South Pole, and its precise location varies considerably over time due to frequent magnetic changes in the Earth's core. Its counterpart in the Northern Hemisphere is the North Magnetic Pole, though the two poles are not directly opposite each other.
+steppe $ The half sphere of the Earth that is south of the Equator. It is opposite the Northern Hemisphere.
+strait $ The locational pattern of economic activities and their interconnecting linkages.
+stratovolcano $ 
+stream $ The occurrence of location pairing such that items demanded by one place can be supplied by another.
+subduction zone $ Movement between locationally separate places.
+suburban $ A coordinate-based local, regional, or global system used to locate geographical entities and which defines a specific map projection as well as transformations between different systems.
+suburbanization $ 
+summit $ 
+surface water $ Places on the ocean floor where lithospheric plates separate and magma erupts. About 80 percent of the Earth's volcanic activity occurs on the ocean floor.
+surveying $ Any location where water naturally emerges from an underground aquifer to the Earth's surface.
+swale $ A lateral ridge or other salient landform protruding from the side of a hill, mountain, or the main crest of a ridge and typically surrounded on at least three sides by steep hillsides.
+swamp $ A coastal geological landform consisting of a steep and often vertical column or columns of rock in the sea formed by erosion by wave action.
+syrt $ A compulsory political organization with a centralized government that maintains a monopoly of the legitimate use of force within a certain geographical territory. See country.
+taiga $ An ecoregion characterized by expansive grassland plains without trees apart from those near rivers and lakes.
+tarn $ See channel.
+temperature inversion $ A steep-sided volcano built by lava flows and tephra deposits.
+tephra $ A natural body of water in which surface water flows between the banks of a channel. Long, large streams are usually called rivers.
+terrain $ The place where two lithospheric plates come together, one riding over the other. Most volcanoes on land occur parallel to and inland from the boundary between the two plates.
+territorial waters $ An adjective describing a mixed-use or residential area existing either as part of an urban area or as a separate community within commuting distance of a city; a place of this type is called a suburb. Suburbs are often defined by commuter infrastructures and have lower population densities than inner-city neighborhoods.
+tertiary sector $ A point on a surface that is higher in elevation than all points immediately adjacent to it. Mathematically, it is a local maximum in elevation. The highest point of a hill or mountain is often referred to as the summit.
+thalweg $ Water present on the surface of the Earth, such as in a river, lake, wetland, or ocean, as opposed to subsurface water.
+tide $ The science, technique, and profession of determining the terrestrial or three-dimensional positions of points on the surface of the Earth and the distances and angles between them. These points are often used to draw maps and establish boundaries for property ownership, construction projects, and other purposes required by government or civil law.
+time distance $ A forested wetland, often occurring along a large river or on the shores of a large lake.
+time geography $ A denudational highland or elevated flatland in Russia and Central Asia; a kind of dissected plateau.
+time zone $ A moist subarctic coniferous forest that begins where the tundra ends and is dominated by spruces and firs.
+tombolo $ A mountain lake or pool of water formed in a cirque excavated by a glacier. A moraine may form a natural dam below a tarn.
+topographic map $ An increase in temperature with height above the Earth's surface, a reversal of the normal pattern.
+topographical relief $ Solid material of all sizes explosively ejected from a volcano into the atmosphere.
+topographic isolation $ The vertical and horizontal dimensions of a land surface, usually as expressed in terms of elevation, slope, and orientation of geographical features.
+topographic prominence $ A concept of the Law of the Sea defined as a belt of coastal waters extending at most 12 nautical miles (22km) from the designated baseline (usually defined as the mean low-water line) for a coastal state and regarded as the sovereign territory of the state.
+topography $ Any area of water over which a state has legal jurisdiction, including internal waters, the exclusive economic zone, and potentially others.
+toponymy $ A specific area or portion of the Earth's surface; similar to though distinct from a region.
+tor $ That portion of a region's economy devoted to service activities (e.g., retail and wholesale operations, transportation, insurance).
+town $ The line of lowest elevation within a valley or watercourse. Thalwegs often acquire special significance in political geography because disputed borders along rivers are often defined as the river's thalweg.
+township and range $ The periodic rise and fall of sea levels caused by the combined effects of the gravitational forces exerted by the Moon and the Sun and the Earth's rotation.
+transferability $ See glacial till.
+transhumance $ A time measure of how far apart places are (how long does it take to travel from place A to place B?). This may be contrasted with other distance metrics such as geographic distance (how far is it?) and cost-distance (how much will it cost to get there?).
+tree line $ An interdisciplinary perspective, ontological framework, and visual language in which space and time are used as basic dimensions of analysis of dynamic processes and events, including social and ecological interactions, environmental changes, and biographies of individuals.
+tributary $ A region of the globe that observes a uniform standard time for legal, commercial, and social purposes. 
+Tropic of Capricorn $ A map that uses contour lines to represent the three-dimensional features of a landscape on a two-dimensional surface.
+tropics $ See terrain.
+true north $ The minimum great-circle distance between the summit of a mountain or hill and a point of equal elevation, representing a radius of dominance in which the summit is the highest point.
+tundra $ A measure of the independence of a mountain or hill defined as the vertical distance between its summit and the lowest contour line encircling it but containing no higher summit within it or, equivalently, the difference between the elevation of the summit and the elevation of the key col. Mountains with high prominence tend to be the highest points in their vicinity.
+underpopulation $ The physical features of a place, or the study and depiction of physical features, including terrain relief.
+uniform region $ The study of placenames (known as toponyms), their origins, meanings, use, and typology.
+urban geography $ A medium-sized human settlement that is generally larger than a village but smaller than a city, though the criteria for distinguishing a town vary considerably in different parts of the world.
+urban sprawl $ The rectangular system of land subdivision of much of the agriculturally settled United States west of the Appalachian Mountains established by the Land Ordinance of 1785.
+urbanization $ The extent to which a good or service can be moved from one location to another; the relative capacity for spatial interaction.
+vale $ The seasonal movement of people and animals in search of pasture. Commonly, winters are spent in snow-free lowlands and summers in the cooler uplands.
+valley $ The latitudinal or elevational limit of normal tree growth. Beyond this limit (i.e. closer to the poles or at higher elevations) climatic conditions are too severe for such growth and trees are stunted or entirely absent.
+vertical exaggeration $ A stream or river that flows into a larger stream or main stem or a lake, rather than directly into a sea or ocean. Contrast distributary.
+vent $ The northernmost circle of latitude on the Earth at which the Sun appears directly overhead at its culmination, which lies approximately 23.4 degrees north of the Equator. Its southern equivalent is the Tropic of Capricorn.
+viewshed $ The southernmost circle of latitude on the Earth at which the Sun appears directly overhead at its culmination, which lies approximately 23.4 degrees south of the Equator. Its northern equivalent is the Tropic of Cancer.
+village $ The region of the Earth's surface surrounding the Equator and bounded by the Tropic of Cancer (23.4° N latitude) and the Tropic of Capricorn (23.4° S latitude). It is characterized by high annual precipitation and the absence of any significant seasonal variation in temperature. The term is often used more broadly to describe any area possessing what is considered a hot, humid climate.
+volcanic avalanche $ The direction along the Earth's surface towards the Geographic North Pole. Geodetic true north differs from magnetic north and grid north, and also very slightly from astronomical true north, which is based on the direction of the north celestial pole.
+volcanic crater $ A treeless plain characteristic of the arctic and subarctic regions.
+volcano $ Economically, a situation in which an increase in the size of the labor force will result in an increase in per-worker productivity.
+wadi $ A territory with one or more features present throughout and absent or unimportant elsewhere.
+water mapping $ An adjective describing a settlement with a high population density and a developed infrastructure of built environment; places of this type are variously categorized as cities, towns, or conurbations, or simply called urban areas. Contrast suburban, exurban, and rural.
+water pollution $ The subdiscipline of geography that derives from the study of cities, urban processes, and the built environment.
+waterway $ Another name for a valley.
+weathering $ A low area between hills or mountains, often with a river running through it.
+Western Hemisphere $ A depression that is longer than it is wide.
+wetland $ A scale used in certain maps, such as raised-relief maps, that deliberately distorts the apparent elevation of the map's topography in order to emphasize vertical features, which might otherwise appear too small to identify relative to the corresponding horizontal scale.
+wilderness $ An opening at the Earth's surface through which volcanic materials (lava, tephra, and gases) erupt. Vents can be at a volcano's summit or on its slopes; they can be circular (craters) or linear (fissures).
+windward $ The geographical area that is visible from a particular location. It includes all surrounding points within line-of-sight of the location and excludes points beyond the horizon or obstructed by terrain and natural or artificial objects.
+World Geodetic System (WGS) $ A small, clustered human settlement or community, usually larger than a hamlet but smaller than a town and often in rural areas, though the criteria for distinguishing a village can vary considerably in different parts of the world.
+world map $ A large, chaotic mass of soil, rock, and volcanic debris moving swiftly down the slopes of a volcano. Volcanic avalanches can also occur without an eruption due to an earthquake, heavy rainfall, or unstable soil, rock, and volcanic debris.
+yardang $ A type of crater created by volcanic activity, typically shaped like a bowl and containing one or more volcanic vents. Compare caldera.
+zoning $ A vent (opening) in the Earth's surface through which magma erupts, or the landform that is constructed by eruptive material.
